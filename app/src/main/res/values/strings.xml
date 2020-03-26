@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">rest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="tvCountryCode">Código de País</string>
+    <string name="btBuscar">Buscar</string>
+
+    <string name="tvNorte">Norte</string>
+    <string name="tvSur">Sur</string>
+    <string name="tvEste">Este</string>
+    <string name="tvOeste">Oeste</string>
+</resources>
